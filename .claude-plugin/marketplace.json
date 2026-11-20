@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-coding-ops",
+  "description": "Coding-ops plugins for Claude Code.",
+  "owner": {
+    "name": "gacikgoz",
+    "url": "https://github.com/gacikgoz"
+  },
+  "plugins": [
+    {
+      "name": "coding-ops",
+      "description": "Software documentation workflow skills: specification authoring, developer documentation with an interactive learning site, interactive end-user guides, and an offline spec-vs-code decision page.",
+      "version": "0.1.0",
+      "author": {
+        "name": "gacikgoz"
+      },
+      "category": "productivity",
+      "source": "./",
+      "homepage": "https://github.com/gacikgoz/claude-coding-ops-plugin"
+    }
+  ]
+}

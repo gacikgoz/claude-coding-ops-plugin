@@ -1,0 +1,22 @@
+{
+  "name": "coding-ops",
+  "version": "0.1.0",
+  "description": "Software documentation workflow skills: specification authoring, developer documentation with an interactive learning site, interactive end-user guides, and an offline spec-vs-code decision page.",
+  "author": {
+    "name": "gacikgoz",
+    "url": "https://github.com/gacikgoz"
+  },
+  "homepage": "https://github.com/gacikgoz/claude-coding-ops-plugin",
+  "repository": "https://github.com/gacikgoz/claude-coding-ops-plugin",
+  "license": "MIT",
+  "keywords": [
+    "documentation",
+    "specification",
+    "architecture",
+    "adr",
+    "developer-docs",
+    "user-guide",
+    "design-review",
+    "skills"
+  ]
+}
